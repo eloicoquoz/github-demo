@@ -1,5 +1,4 @@
 function subtract(a, b) {
-  return '?';
+  return -b + a;
 }
-
 calculate('subtraction', subtract);
